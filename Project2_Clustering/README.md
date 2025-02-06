@@ -20,6 +20,6 @@ Part 2 developed and run in Google Colab.
 
 - `ECE219-Proj2-Spec.pdf`
 - `Project2_Report.pdf`
-- `Pokemon.csv` (data: pokemon name, types..)
+- `Pokemon.csv` (text data for part3: pokemon name, types..)
 
-Note: if the image data for part 2 and 3 cannot auto download (the logic has implemented) in the notebook, please use the url into the notebook and manually download.
+Note: if the image dataset for part 2 and 3 cannot auto download (the logic has implemented) in the notebook, please use the url at the top of the notebook and manually download.
