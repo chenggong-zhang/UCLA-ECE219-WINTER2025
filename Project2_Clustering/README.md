@@ -1,2 +1,25 @@
-# UCLA-ECE219-WINTER2025
-4 project
+# Project 2: Data Representations and Clustering
+
+The project is split into 3 parts as described below:
+
+- Part 1 - Clustering on Text Data
+- Part 2 - Deep Learning and Clustering of Image Data
+- Part 3 - Clustering using both Image and Text
+
+The project is organized into three code files, each handling a distinct segment.
+Part 1 & Part 3 developed in local machine, vscode with Jupyter extension
+Part 2 developed and run in Google Colab.
+
+### Code Files:
+
+- `Part1.ipynb`
+- `Part2.ipynb` (extended from the help_code.ipynb provided in Bruinlearn)
+- `Part3.ipynb` (extended from the pokedex_helper.ipynb in Bruinlearn)
+
+### Other Files:
+
+- `ECE219-Proj2-Spec.pdf`
+- `Project2_Report.pdf`
+- `Pokemon.csv` (data: pokemon name, types..)
+
+Note: if the image data for part 2 and 3 cannot auto download (the logic has implemented) in the notebook, please use the url into the notebook and manually download.
