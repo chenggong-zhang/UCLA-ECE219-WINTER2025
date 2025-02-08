@@ -7,13 +7,13 @@ The project is split into 3 parts as described below:
 - Part 3 - Clustering using both Image and Text
 
 The project is organized into three code files, each handling a distinct segment.
-Part 1 & Part 3 developed in local machine, vscode with Jupyter extension
-Part 2 developed and run in Google Colab.
+Part 1 & Part 3 developed in local machine, vscode with Jupyter extension.
+Part 2 developed in Google Colab.
 
 ### Code Files:
 
 - `Part1.ipynb`
-- `Part2.ipynb` (extended from the help_code.ipynb provided in Bruinlearn)
+- `Part2.ipynb` (extended from the helper_code.ipynb provided in Bruinlearn)
 - `Part3.ipynb` (extended from the pokedex_helper.ipynb in Bruinlearn)
 
 ### Other Files:
