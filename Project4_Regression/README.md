@@ -1,3 +1,3 @@
-# UCLA-ECE219-WINTER2025
-
 ## Project 4: Regression Analysis and Define Your Own Task!
+
+The following Jupyter Notebook contains the code for both the regression task and the Twitter analysis project. To run the code, simply run through the code blocks and the dependencies should take care of themselves. Some code blocks contain dependency installations that are currently commented out. For the tweet generation task (#10.2), the finetuning code should be run with a GPU instance. Follow the instructions in the code block to finetune with the correct dataset.
