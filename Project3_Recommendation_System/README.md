@@ -1,2 +1,1 @@
-# UCLA-ECE219-WINTER2025
-4 project
+## Project 3: Recommender Systems
